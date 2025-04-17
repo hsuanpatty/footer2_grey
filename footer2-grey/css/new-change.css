@@ -956,6 +956,7 @@ white-space: nowrap;
   
   .glare-style li a.ic-file i {
     color: #fff;
+    margin-left: 1px;
   }
   .glare-style li a.ic-file:before {
     background-color: rgb(102, 6, 22);
